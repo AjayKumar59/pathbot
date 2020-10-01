@@ -48,3 +48,16 @@ You might need to [install go](https://golang.org/doc/install#install).
 - **Create an audio adventure**: Try using the [Speech Synthesis API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis) to make an immersive audio experience.
 
 More about Pathbot here: https://noopschallenge.com/challenges/pathbot
+.
+
+# ✨ A few ideas
+
+- **Create an automated solver**: Humans can be pretty good at solving mazes, but they'll never be as fast as a well-tuned computer. Start from the included go program or write a program that can escape in another language.
+
+- **Make it graphical**: Each room has a description. Use these descriptions to create a richer playing experience. Add a map of the rooms explored so far.
+
+- **Make your own text adventure**: Perhaps you want to create your own game, complete with [grues](https://en.wikipedia.org/wiki/Grue_%28monster%29). Start out with [Twine](https://twinery.org/) or write your own engine. Anything is possible!
+
+- **Create an audio adventure**: Try using the [Speech Synthesis API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis) to make an immersive audio experience.
+
+More about Pathbot at [noopschallenge.com](https://noopschallenge.com/challenges/pathbot).
